@@ -12,4 +12,4 @@ jobs:
       image: alpine
     steps:
       - name: Run Build
-        run: echo "build"
+        run: echo "build2"
